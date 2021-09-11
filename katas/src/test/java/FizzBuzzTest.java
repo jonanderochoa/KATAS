@@ -50,7 +50,7 @@ class FizzBuzzTest {
         // Act (Actuar)
         String result = fizzBuzz.fizzBuzz(15);
         // Assert (Afirmar)
-        assertEquals("com/katasjon/fizzbuzz", result);
+        assertEquals("FizzBuzz", result);
     }
 
 }
